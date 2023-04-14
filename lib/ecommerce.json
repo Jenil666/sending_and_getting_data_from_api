@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10",
+    "product_name": "Oppo F1",
+    "product_price": "20000",
+    "product_offer": "3000",
+    "product_category": "Mobile",
+    "product_image": "google.com",
+    "product_desc": "4G",
+    "product_rate": "5"
+  },
+  {
+    "id": "11",
+    "product_name": "Samsung M13",
+    "product_price": "25000",
+    "product_offer": "2000",
+    "product_category": "Mobile",
+    "product_image": "google.com",
+    "product_desc": "4G",
+    "product_rate": "5"
+  },
+  {
+    "id": "13",
+    "product_name": "motorola",
+    "product_price": "10000",
+    "product_offer": "0",
+    "product_category": "mobile",
+    "product_image": "google.com",
+    "product_desc": "3GB",
+    "product_rate": "4"
+  },
+  {
+    "id": "14",
+    "product_name": "Samsung M04",
+    "product_price": "10000",
+    "product_offer": "2000",
+    "product_category": "mobile",
+    "product_image": "google.com",
+    "product_desc": "4GB RAM",
+    "product_rate": "4.4"
+  },
+  {
+    "id": "15",
+    "product_name": "Nokia",
+    "product_price": "1500",
+    "product_offer": "0",
+    "product_category": "weapon",
+    "product_image": "google.com",
+    "product_desc": "strong body",
+    "product_rate": "3.5"
+  },
+  {
+    "id": "16",
+    "product_name": "Nokia",
+    "product_price": "1500",
+    "product_offer": "0",
+    "product_category": "weapon",
+    "product_image": "google.com",
+    "product_desc": "strong body",
+    "product_rate": "3.5"
+  }
+]
